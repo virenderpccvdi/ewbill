@@ -1,1 +1,3 @@
 Electronic Water Billing System
+Meter Inventory
+Customer Registration
